@@ -1,0 +1,9 @@
+name: astrbot_plugin_avatar_only
+display_name: QQ头像修改
+desc: 这是一个只用于修改 NapCat QQ Bot 自身头像的 AstrBot 插件
+version: 1.0.0
+author: HaolinAWA
+repo: https://github.com/example/astrbot_plugin_avatar_only
+support_platforms:
+  - aiocqhttp
+astrbot_version: ">=4.0"
