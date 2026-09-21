@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/haolinawa/astrbot_plugin_avatar_only/refs/heads/main/logo.png" width="500" height="500" alt="你说得对是换头像的插件图片">
+</p>
+
 # AstrBotのQQ头像修改
 
 这是一个只用于修改 NapCat QQ Bot 自身头像的 AstrBot 插件
